@@ -3,7 +3,7 @@
     "description": "Class for switch WordPress theme",
     "keywords": ["WordPress", "theme"],
     "type": "library",
-    "license": "MIT",
+    "license": "GPL2",
     "require": {
         "php": ">=5.3"
     },
