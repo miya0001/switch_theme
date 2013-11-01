@@ -38,6 +38,11 @@ Basic:
 
 Theme file is out of the wp-content/themes
 
+    <?php
+    /*
+    Plugin Name: Switch Theme
+    */
+
     require(dirname(__FILE__).'/vendor/autoload.php');
 
     if (isset($_GET['test']) && $_GET['test']) {
